@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "858129160860",
+    "project_id": "mobevemp",
+    "storage_bucket": "mobevemp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:858129160860:android:002d9980e78b41385f2b59",
+        "android_client_info": {
+          "package_name": "com.example.mobdevemp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBzMZ5tmm5VFGR98xjY7whWrLE-hUiZBh8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
